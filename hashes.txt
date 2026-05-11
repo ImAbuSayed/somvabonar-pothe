@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Somvabonar Pothe
+
+This log tracks the cryptographic history and versioning for the song **Somvabonar Pothe** (somvabonar-pothe).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-11T06:37:56.116423 | `v1` | `708bed62e820ae0e9eed996e59178a936afe062819103b3f9d81a3a52f433d6c` | `66290dbdf0daf22874e222a7e384951b3213e95f2f6c5b0ef6c8341312d85747` | `2026-05-11_somvabonar-pothe-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
