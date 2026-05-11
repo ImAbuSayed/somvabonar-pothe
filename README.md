@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/somvabonar-pothe/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Somvabonar Pothe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/somvabonar-pothe/) |
+| **Get License** | [Music Rights & Licensing for Somvabonar Pothe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/somvabonar-pothe/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Song Name: "Somvabonar Pothe"
+> অচেনা আলোয় খুঁজেছি আমি তোমারই ঐ দুটি চোখ
+> হারানো পথের বাঁকে এসে যেন থামলো মনের শোক
+> অসীম মায়ায় বেঁধেছো আমায় শূন্যতা হলো আজ দূর
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
